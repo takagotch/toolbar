@@ -2,7 +2,7 @@
 ---
 https://github.com/paulkinzett/toolbar
 
-```
+```html
 <div class="btn-toolbar"></div>
 <div class="btn-toolbar btn-toolbar-primary"></div>
 
